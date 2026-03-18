@@ -1,12 +1,24 @@
-# Python Basics Practice
+# Python Fundamentals
 
-This repository contains small Python exercises I completed while learning programming.
+This repository contains my learning journey in Python as I transition into AI and Machine Learning.
 
-Topics included:
-- variables and data types
-- loops and conditionals
-- functions
-- lists and dictionaries
-- basic algorithms
+## Topics Covered
 
-The goal of this repository is to practice problem-solving and build a strong Python foundation.
+- NumPy (arrays, operations)
+- Pandas (data analysis)
+- Matplotlib (data visualization)
+
+## Small Projects
+
+- Calculator
+- Number guessing game
+- (add yours here)
+
+## Goal
+
+Build a strong foundation in Python for Data Science and Machine Learning.
+
+## Next Steps
+
+- Data analysis projects
+- Machine learning models
